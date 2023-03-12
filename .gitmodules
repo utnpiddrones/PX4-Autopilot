@@ -62,3 +62,6 @@
 	path = src/modules/microdds_client/Micro-XRCE-DDS-Client
 	url = https://github.com/PX4/Micro-XRCE-DDS-Client.git
 	branch = px4
+[submodule "Tools/simulation/gz/models/drone_utn"]
+	path = Tools/simulation/gz/models/drone_utn
+	url = /home/cotti/PID/px4/PX4-Autopilot/Tools/simulation/gz/models/drone_utn
