@@ -64,4 +64,5 @@
 	branch = px4
 [submodule "Tools/simulation/gz/models/drone_utn"]
 	path = Tools/simulation/gz/models/drone_utn
-	url = /home/cotti/PID/px4/PX4-Autopilot/Tools/simulation/gz/models/drone_utn
+	url = https://github.com/utnpiddrones/drone_utn.git
+    branch = main
